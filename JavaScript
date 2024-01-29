@@ -1,0 +1,3 @@
+document.addEventListener("DOMContentLoaded", function() {
+    alert("Eu te amoooo muito minha princesa, pra sempre minha vida❤️❤️❤️❤️❤️❤️");
+});
